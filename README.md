@@ -1,3 +1,7 @@
+# NOTE
+
+this repo has been deprecated, use https://github.com/grimoire/torch2trt_dynamic instead.
+
 # torch2trt dynamic
 
 This is a branch of https://github.com/NVIDIA-AI-IOT/torch2trt with dynamic input support
